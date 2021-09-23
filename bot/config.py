@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "1796999663:AAGN9UaVHua9FfA9-7Ez7P0g9C3eLB0r6sM"
+    APP_ID = "6134343"
+    API_HASH = "344493a60221b6483e47b00ff1461708"
+    DATABASE_URL = "postgres://mdpqfyol:qyItiT1Fw3Q_0ctelj_McbBi9EKQq32s@satao.db.elephantsql.com/mdpqfyol"
+    SUDO_USERS = "548699498" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "730367063192-knj02aifbsh4aajbbt3g6mv48essulsv.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "a_f6Pn4TLcsB9ZE2XBbkWVQO"
+    SUPPORT_CHAT_LINK = "https://t.me/drivemirror"
 
 
 class BotCommands:
