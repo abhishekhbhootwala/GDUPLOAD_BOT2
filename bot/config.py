@@ -1,5 +1,5 @@
 class config:
-    BOT_TOKEN = "1796999663:AAGN9UaVHua9FfA9-7Ez7P0g9C3eLB0r6sM"
+    BOT_TOKEN = "1839911079:AAFqkbSEIYBa3pin0lrXYGrmYo2gXSbrVEM"
     APP_ID = "6134343"
     API_HASH = "344493a60221b6483e47b00ff1461708"
     DATABASE_URL = "postgres://mdpqfyol:qyItiT1Fw3Q_0ctelj_McbBi9EKQq32s@satao.db.elephantsql.com/mdpqfyol"
